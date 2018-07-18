@@ -1,5 +1,5 @@
 // Code your solution in this file!
-let companyName = 'scuber';
+const companyName = 'scuber';
 function hey () { companyName = 'specialCompany' }
 let mostProfitableNeighborhood = 'Chelsea';
 let companyCeo = 'Susan Smith';
